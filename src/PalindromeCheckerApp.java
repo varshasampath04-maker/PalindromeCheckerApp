@@ -1,4 +1,4 @@
-public class PalindromeCheckerApp { g
+public class PalindromeCheckerApp {
 
 
 }
